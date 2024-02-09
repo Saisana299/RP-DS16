@@ -1,0 +1,12 @@
+[submodule "RP-DS16-CTRL"]
+	path = RP-DS16-CTRL
+	url = https://github.com/Saisana299/RP-DS16-CTRL.git
+[submodule "RP-DS16-SYNTH"]
+	path = RP-DS16-SYNTH
+	url = https://github.com/Saisana299/RP-DS16-SYNTH.git
+[submodule "RP-DS16-DISP"]
+	path = RP-DS16-DISP
+	url = https://github.com/Saisana299/RP-DS16-DISP.git
+[submodule "RP-DS16-PCB"]
+	path = RP-DS16-PCB
+	url = https://github.com/Saisana299/RP-DS16-PCB.git
