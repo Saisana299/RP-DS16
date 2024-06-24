@@ -9,7 +9,16 @@ RP2040 を利用したWavetableシンセ「RP-DS16」
 https://zenn.dev/saisana299/articles/70146ef851b28a
 
 ## 概要
-...
+- Max 8 Voice Polyphonic / Monophonic Synthesizer
+    - 2OSC + Sub + Noise
+    - Max 8 Voice Unison
+    - Low-pass / High-pass filter
+    - Additive / Ring Modulation Synthesis
+    - Delay Effecter
+    - 4 Factory Presets / 128 User Presets
+- MIDI 1.0 Compatible
+    - DIN5 MIDI / TRS MIDI Input
+    - MIDI Player
 
 ## 基板画像
 
