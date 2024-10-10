@@ -21,4 +21,4 @@ https://zenn.dev/saisana299/articles/70146ef851b28a
     - MIDI Player
 
 ## 基板画像
-<a href="https://github.com/Saisana299/RP-DS16"><img height="400" src="https://github.com/user-attachments/assets/9c54e974-1c04-4cea-a988-9603ddd7b3fd"></img></a><br>
+<a href="https://github.com/Saisana299/RP-DS16"><img height="400" src="https://github.com/user-attachments/assets/eff4df27-071c-4f06-965f-2a209a2f7c75"></img></a><br>
