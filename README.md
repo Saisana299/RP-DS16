@@ -8,6 +8,9 @@ RP2040 を利用したWavetableシンセ「RP-DS16」
 開発記事  
 https://zenn.dev/saisana299/articles/70146ef851b28a
 
+<span style="font-size: 200%;">This project has been suspended.</span>  
+<span style="font-size: 200%;">Successor project : [Cranberry-Synth](https://github.com/Saisana299/Cranberry-Synth)</span>
+
 ## 概要
 - Max 8 Voice Polyphonic / Monophonic Synthesizer
     - 2OSC + Sub + Noise
