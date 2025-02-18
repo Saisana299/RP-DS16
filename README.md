@@ -6,7 +6,7 @@ RP2040 を利用したWavetableシンセ「RP-DS16」
 [![GitHub license](https://img.shields.io/badge/RP--DS16-SYNTH-red)](https://github.com/Saisana299/RP-DS16-SYNTH)
 
 開発記事  
-https://zenn.dev/saisana299/articles/70146ef851b28a
+https://zenn.dev/saisana299/books/c1944fd7490e4f
 
 > [!IMPORTANT]
 <span style="font-size: 200%;">This project has been suspended.</span>  
